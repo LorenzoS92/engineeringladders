@@ -12,7 +12,7 @@ The framework relies heavily on radar charts to visually represent the different
 
 # Career Ladders
 
-The framework has 4 different ladders:
+The framework has 2 different ladders:
 
 * [**Engineers**](Developer.md): role requires a deep level of technical expertise
 
@@ -119,3 +119,7 @@ Specific examples of behavior require knowledge about the way that the team work
 
 * [**Developer**](Developer.md)
 * [**Engineering Manager**](EngineeringManager.md)
+
+# Contributors
+
+https://github.com/jorgef/engineeringladders
