@@ -41,5 +41,4 @@ In Tundr, the Tech Lead and Engineering Manager roles, will be merged in the fir
 
 # Other Pages
 
-* [**Introduction**](README.md)
 * [**Engineer**](Developer.md)
