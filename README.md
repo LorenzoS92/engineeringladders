@@ -120,6 +120,6 @@ Specific examples of behavior require knowledge about the way that the team work
 * [**Developer**](Developer.md)
 * [**Engineering Manager**](EngineeringManager.md)
 
-# Contributors
+# Contributors and license
 
 https://github.com/jorgef/engineeringladders
