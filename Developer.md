@@ -35,7 +35,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt by following the current architecture
 * **Supports**: proactively supports other team members and helps them to be successful
 * **Propose**: talks about the team processes with their Engineering Manager
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Team**: makes an impact on the whole team, not just on specific parts of it, for example by proposing during a tech meeting or in a channel, a best practice experienced during the developlment
 * **Monitor**: monitors performance by developing or observing the observability platform about every services developed by the team
 
 ## Senior Engineer
@@ -50,7 +50,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Multiple Teams**: makes an impact not only on the whole team but also on other teams, by promoting a best practices that the team experience, also externally to other teams.
 * **Monitor**:  monitors performance, observability and dashboards following business KPIs  and push changes if performance are affected
 
 ## Staff Engineer
@@ -62,10 +62,10 @@ Role also known as programmer or software engineer, requires a deep level of tec
 </picture>
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
+* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages, and he is the first person for his team for technical matters
+* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate, by collaborating with the Engineering Manager to growth people.
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes, and by reporting feedbacks to the engineering manager
-* **Community**: makes an impact on the entire tech community also outside the company, for example by promoting a library created inside a company, writing down tech blog articles or by impatting the company engineer culture outside 
+* **Community**: makes an impact on the entire tech community also outside the company, for example by promoting a best practice / library created inside a company, writing down tech blog articles or by impatting the company engineer culture outside 
 * **Monitor**:  monitors performance, observability and dashboards following business KPIs, push changes if performance are affected and communicates proactively with the product owner if a technical problem can cause a business issue.
 
 # Other Pages
