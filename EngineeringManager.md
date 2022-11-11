@@ -28,7 +28,7 @@ In Tundr, the Tech Lead and Engineering Manager roles, will be merged in the fir
 | Team Visibility and Recognition (shared) | Team Visibility and Recognition (shared)​ |
 | Ability to Act as Engineering Manager when Required | Ability to Act as Tech Lead when Required |
 
-** General Responsabilities
+* General Responsabilities
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
