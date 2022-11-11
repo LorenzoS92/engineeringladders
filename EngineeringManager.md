@@ -1,62 +1,45 @@
-# Engineering Manager
+# Engineering Manager & Tech Lead
 
-Role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team.
-
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 5 | Yes | [EM5 - Engineering Manager 5](#em5---engineering-manager-5) |
-| 6 | Yes | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
-| 7 | Yes | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
-
-If you have other managers as direct reports, you might want to read the [Managing Managers](Managing-Managers.md) section since it provides more information about the "Manages People" aspect of the role.
-
-## EM5 - Engineering Manager 5
+In Tundr, the Tech Lead and Engineering Manager roles, will be merged in the first iterations, and in the future can be splitted up, based on team capacity.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-5.png">
-  <img alt="Engineering Manager 5" src="/charts/engineeringmanager-5.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/dashboard-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/dashboard.png">
+  <img alt="Dashboard" src="/charts/dashboard.png">
 </picture>
+
+
+| [Tech Lead](TechLead.md) (System) | [Engineering Manager](EngineeringManager.md) (People)|
+| :--- | :--- |
+| Technical Excellence and Innovation| Career Planning, Promotions and Coaching |
+| Architecture and System Integration | Headcount Planning and Hiring |
+| Tech Mentoring, Adoption and Alignment | Team Planning and Delivery |
+| Technical Spikes and Experiments​ | Objectives, Performance and Feedback |
+| Code Reviews and Feedback | One on Ones |
+| System Design Presentations​ | Participation in Technical Decisions |
+| Technical Capacity Planning​ | Cascading Communications​ |
+| Production Issues Escalation​ | Team Building Activities and Culture​ |
+| System SLAs, Metrics & Monitoring​ | Team Protection and Happiness​ |
+| Platform Direction, Patterns and Practices | Team Productivity and Metrics​ |
+| Alignment with other Tech Leads​ | Alignment with other Dev Managers​ |
+| Hands-On Coding 30% to 70% of the Time | Hands-On Coding 0% to 30% of the Time |
+| System Roadmap (shared)​ | System Roadmap (shared)​ |
+| Development Process (shared)​ | Development Process (shared)​ |
+| Team Visibility and Recognition (shared) | Team Visibility and Recognition (shared)​ |
+| Ability to Act as Engineering Manager when Required | Ability to Act as Tech Lead when Required |
+
+** General Responsabilities
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Team**: makes an impact on the whole team, not just on specific parts of it
-
-## EM6 - Engineering Manager 6
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-6.png">
-  <img alt="Engineering Manager 6" src="/charts/engineeringmanager-6.png">
-</picture>
-
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Team**: makes an impact on the whole team, not just on specific parts of it
-
-## EM7 - Engineering Manager 7
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-7.png">
-  <img alt="Engineering Manager 7" src="/charts/engineeringmanager-7.png">
-</picture>
-
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
+* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 * **Manages**: manages the team members' career, expectations, performance and level of happiness
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Delivery**: its the person in charge of 
+
 
 # Other Pages
 
 * [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Engineer**](Developer.md)
